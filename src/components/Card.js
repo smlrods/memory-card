@@ -3,7 +3,7 @@ function Card(props) {
   return (
     <div onClick={() => setGameScore(card)}>
       <h2>{card.name}</h2>
-      <img src={card.image}/>
+      <div style={{backgroundImage: `url(${card.image})`}}></div>
     </div>
   );
 }
