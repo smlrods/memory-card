@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.3833dd2e.css",
+    "main.js": "/memory-card/static/js/main.51b9ef22.js",
+    "static/media/luka.png": "/memory-card/static/media/luka.84cd075d27a8dedcea5f.png",
+    "static/media/daru.png": "/memory-card/static/media/daru.336d1e130560f59b0a3c.png",
+    "static/media/amane.png": "/memory-card/static/media/amane.61177a48de7fa0da112a.png",
+    "static/media/kagari.png": "/memory-card/static/media/kagari.27f900e196e5f47a3a24.png",
+    "static/media/rintaro.png": "/memory-card/static/media/rintaro.605139aad7d6fd716ea4.png",
+    "static/media/faris.png": "/memory-card/static/media/faris.d386c2178fef450d6a0c.png",
+    "static/media/kurisu.png": "/memory-card/static/media/kurisu.c564aefc4144daa4d8c2.png",
+    "static/media/moeka.png": "/memory-card/static/media/moeka.2bbd384d538abba70424.png",
+    "static/media/suzuha.png": "/memory-card/static/media/suzuha.94d2db2ec43f40b58756.png",
+    "static/media/mayuri.png": "/memory-card/static/media/mayuri.821bdebeccb488370c91.png",
+    "index.html": "/memory-card/index.html",
+    "main.3833dd2e.css.map": "/memory-card/static/css/main.3833dd2e.css.map",
+    "main.51b9ef22.js.map": "/memory-card/static/js/main.51b9ef22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3833dd2e.css",
+    "static/js/main.51b9ef22.js"
+  ]
+}
